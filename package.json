@@ -1,0 +1,37 @@
+{
+  "name": "waifu-board",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@material-ui/core": "4.11.0",
+    "@material-ui/icons": "4.9.1",
+    "@types/atmosphere.js": "2.1.2",
+    "atmosphere.js": "3.0.6",
+    "react": "17.0.0",
+    "react-beautiful-dnd": "13.0.0",
+    "react-dom": "17.0.0",
+    "react-router-dom": "5.2.0",
+    "react-scripts": "3.4.3",
+    "recoil": "0.1.2",
+    "styletron-engine-atomic": "1.4.6",
+    "styletron-react": "5.2.7",
+    "uuid": "8.3.1"
+  },
+  "devDependencies": {
+    "typescript": "3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
